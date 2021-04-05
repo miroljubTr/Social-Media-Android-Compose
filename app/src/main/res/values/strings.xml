@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Social Media Compose</string>
+    <string name="profile">Profile</string>
+    <string name="label_home">Home</string>
+    <string name="label_profile">Profile</string>
+    <string name="label_menu">Menu</string>
+    <string name="label_favorite">Favorite</string>
+    <string name="photos">Photos</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="likes">%s likes</string>
+    <string name="comments">%s comments</string>
+    <string name="stories">Stories</string>
+    <string name="social_media_android_compose">Social Media Android Compose</string>
+</resources>
